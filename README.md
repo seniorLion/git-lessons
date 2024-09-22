@@ -29,10 +29,8 @@
 ___
 
 
-Обзац (2 энтера)
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
-
-Consequuntur ad recusandae ipsa maxime officiis, iusto repellendus?
+Обзац (2 пробела)
+Lorem ipsum dolor sit amet, consectetur adipisicing elit.  Consequuntur ad recusandae ipsa maxime officiis, iusto repellendus?
 
 
 **Жирный** / ***жирный курсив*** / *курсив*
